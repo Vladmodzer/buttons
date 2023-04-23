@@ -1,0 +1,12 @@
+.body {
+  background: rgb(106, 185, 106);
+}
+.body__about {
+  background: rgb(240, 240, 192);
+}
+.button__lang:active {
+  background-color: var(--lang-button-color);
+}
+.button__lang {
+  border-radius: 8px;
+}
